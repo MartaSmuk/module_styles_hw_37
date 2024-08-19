@@ -1,0 +1,17 @@
+
+.button{
+  background-color: aqua;
+  width: 20%;
+  text-align: center;
+  margin-left: 30px;
+}
+
+.input {
+  background-color: aqua;
+  width: 40%;
+  border-radius: 10px;
+  padding: 12px;
+  border: none;
+}
+
+
